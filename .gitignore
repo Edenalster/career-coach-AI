@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+data/my_cv.txt
+.cache/
+data/my_cv.txt
+data/my_job.txt
+eval/job_cases.local.json

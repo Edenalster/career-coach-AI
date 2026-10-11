@@ -1,0 +1,77 @@
+[
+  {
+    "claim": "I created a responsive, user-friendly interface while integrating Google Gemini AI for content generation.",
+    "evidence": "Integrated Google Gemini AI for AI-assisted content generation and designed a responsive, user-friendly interface.",
+    "supported": true
+  },
+  {
+    "claim": "I led educational activities conducted in English at a summer camp.",
+    "evidence": "Led educational activities in an English-speaking summer camp.",
+    "supported": true
+  },
+  {
+    "claim": "I documented RESTful APIs with Swagger and secured them with JWT authentication.",
+    "evidence": "Implemented JWT authentication, RESTful APIs, full CRUD operations, and API documentation with Swagger.",
+    "supported": true
+  },
+  {
+    "claim": "I built live tournament brackets and real-time notifications for a chess platform.",
+    "evidence": "Implemented live tournament brackets, real-time notifications, and wallet-based prize management.",
+    "supported": true
+  },
+  {
+    "claim": "As a naval control and operations sergeant, I managed critical operations and communications.",
+    "evidence": "Served as a Naval Control and Operations Sergeant at Ashdod Naval Base. Managed critical operations and communications.",
+    "supported": true
+  },
+  {
+    "claim": "I implemented wallet-based prize management for tournaments.",
+    "evidence": "Implemented live tournament brackets, real-time notifications, and wallet-based prize management.",
+    "supported": true
+  },
+  {
+    "claim": "I used TypeScript for the client-side logic of a social platform.",
+    "evidence": "Developed a full-stack social platform using React, Node.js, MongoDB, and TypeScript.",
+    "supported": false
+  },
+  {
+    "claim": "I integrated Gemini AI for automation tasks.",
+    "evidence": "AI & Automation: n8n, Gemini AI",
+    "supported": false
+  },
+  {
+    "claim": "I built a real-time chess platform, demonstrating expertise in WebSockets.",
+    "evidence": "Developed a real-time online chess tournament platform using React, Node.js, Socket.IO, and the Lichess API.",
+    "supported": false
+  },
+  {
+    "claim": "I am experienced in Node.js backend development.",
+    "evidence": "Backend: Node.js, REST APIs, JWT Authentication, Swagger",
+    "supported": false
+  },
+  {
+    "claim": "I integrated an AI chatbot using LLM APIs.",
+    "evidence": "Integrated an AI-powered chatbot, multilingual support (Hebrew & English), and responsive design.",
+    "supported": false
+  },
+  {
+    "claim": "I managed a team of administrators at Michlol Solutions.",
+    "evidence": "Managed daily operations and administrative processes.",
+    "supported": false
+  },
+  {
+    "claim": "I built backend services using Node.js, REST APIs, and JWT authentication.",
+    "evidence": "Backend: Node.js, REST API's, JWT Authentication, Swagger",
+    "supported": false
+  },
+  {
+    "claim": "I used JavaScript to build frontend applications.",
+    "evidence": "Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS, Tailwind CSS",
+    "supported": false
+  },
+  {
+    "claim": "I built a full-stack social platform with React, Node.js and MongoDB.",
+    "evidence": "Developed a full-stack social platform using React, Node.js, MongoDB, and TypeScript.",
+    "supported": true
+  }
+]

@@ -1,0 +1,50 @@
+Eden Alster
+
+PROFILE SUMMARY
+Computer Science graduate with commercial software development experience building full-stack web applications, AI-powered systems, and workflow automation solutions. Skilled in React, Next.js, Node.js, TypeScript, MongoDB, and n8n, with experience integrating AI models, third-party APIs, and scalable backend architectures. Passionate about building practical software that solves real-world problems.
+
+EDUCATION
+2026 - B.Sc. in Computer Science, College of Management, Rishon LeZion
+2017 - High School Diploma, Erony Hey, Haifa. Majored 5 units in computer science and 5 units in communication.
+
+SKILLS
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS, Tailwind CSS
+- Backend: Node.js, REST APIs, JWT Authentication, Swagger
+- Database: SQL, MongoDB
+- AI & Automation: n8n, Gemini AI
+- Tools: Git, GitHub, Postman, Vercel
+- Programming languages: Python, Java, C/C++
+- Mobile: Kotlin, Android Studio
+
+PROJECTS
+AutoMatch - Online Chess Tournament Platform (2025)
+- Developed a real-time online chess tournament platform using React, Node.js, Socket.IO, and the Lichess API.
+- Implemented live tournament brackets, real-time notifications, and wallet-based prize management.
+- Designed a responsive user interface with real-time synchronization across connected users.
+
+Oevex - AI Automation & Web Agency Website (2025)
+- Developed a production-ready bilingual business website using React, TypeScript, and Tailwind CSS.
+- Integrated an AI-powered chatbot, multilingual support (Hebrew & English), and responsive design.
+- Optimized performance, accessibility, metadata management, and Core Web Vitals to improve user experience.
+
+HobbyConnect - Full Stack Social Platform (2025)
+- Developed a full-stack social platform using React, Node.js, MongoDB, and TypeScript.
+- Implemented JWT authentication, RESTful APIs, full CRUD operations, and API documentation with Swagger.
+- Integrated Google Gemini AI for AI-assisted content generation and designed a responsive, user-friendly interface.
+
+PROFESSIONAL EXPERIENCE
+Administrative Manager - Michlol Solutions Ltd. (2020-2022)
+- Managed daily operations and administrative processes.
+- Coordinated cross-functional teams in a fast-paced environment.
+
+Educational Counselor - The Jewish Agency (USA, 2022)
+- Led educational activities in an English-speaking summer camp.
+- Mentored children while promoting teamwork and cross-cultural communication.
+
+MILITARY SERVICE
+Naval Control and Operations Sergeant, Ashdod Naval Base
+- Managed critical operations and communications. Selected as an Outstanding Soldier for Israel's Independence Day (2019).
+
+LANGUAGES
+- Hebrew: native speaker
+- English: highly proficient

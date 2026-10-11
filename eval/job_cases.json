@@ -1,0 +1,22 @@
+[
+  {
+    "id": "synthetic1",
+    "file": "data/sample_job.txt",
+    "must_have": [
+      ["computer science", "b.sc"],
+      ["python"],
+      ["llm apis", "openai", "gemini", "anthropic"],
+      ["rag", "retrieval"],
+      ["vector database", "vector databases"],
+      ["rest api", "rest apis", "restful"],
+      ["git"],
+      ["english"]
+    ],
+    "nice_to_have": [
+      ["langchain", "langgraph"],
+      ["docker", "ci/cd"],
+      ["typescript", "react"],
+      ["evaluat"]
+    ]
+  }
+]

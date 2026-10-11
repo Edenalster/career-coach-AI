@@ -1,0 +1,102 @@
+[
+  {
+    "claim": "I built a real-time chess tournament platform with React and Node.js.",
+    "evidence": "Developed a real-time online chess tournament platform using React, Node.js, Socket.IO, and the Lichess API.",
+    "supported": true
+  },
+  {
+    "claim": "I built a real-time chess platform using React, Node.js, Socket.IO and Redis.",
+    "evidence": "Developed a real-time online chess tournament platform using React, Node.js, Socket.IO, and the Lichess API.",
+    "supported": false
+  },
+  {
+    "claim": "I implemented JWT authentication and documented the APIs with Swagger.",
+    "evidence": "Implemented JWT authentication, RESTful APIs, full CRUD operations, and API documentation with Swagger.",
+    "supported": true
+  },
+  {
+    "claim": "I secured the API with OAuth 2.0 and JWT.",
+    "evidence": "Implemented JWT authentication, RESTful APIs, full CRUD operations, and API documentation with Swagger.",
+    "supported": false
+  },
+  {
+    "claim": "I integrated Google Gemini for AI-assisted content generation.",
+    "evidence": "Integrated Google Gemini AI for AI-assisted content generation and designed a responsive, user-friendly interface.",
+    "supported": true
+  },
+  {
+    "claim": "I called the Gemini API with prompt templates and evaluated the output quality.",
+    "evidence": "Integrated Google Gemini AI for AI-assisted content generation and designed a responsive, user-friendly interface.",
+    "supported": false
+  },
+  {
+    "claim": "I am proficient in Python.",
+    "evidence": "Programming languages: Python, Java, C/C++",
+    "supported": false
+  },
+  {
+    "claim": "My programming languages include Python, Java and C/C++.",
+    "evidence": "Programming languages: Python, Java, C/C++",
+    "supported": true
+  },
+  {
+    "claim": "I used Git for version control on team projects.",
+    "evidence": "Tools: Git, GitHub, Postman, Vercel",
+    "supported": false
+  },
+  {
+    "claim": "My tools include Git, GitHub and Postman.",
+    "evidence": "Tools: Git, GitHub, Postman, Vercel",
+    "supported": true
+  },
+  {
+    "claim": "I used Git daily for version control.",
+    "evidence": "Tools: Git, GitHub, Postman, Vercel",
+    "supported": false
+  },
+  {
+    "claim": "I built a bilingual business website with React, TypeScript and Tailwind CSS.",
+    "evidence": "Developed a production-ready bilingual business website using React, TypeScript, and Tailwind CSS.",
+    "supported": true
+  },
+  {
+    "claim": "I built a bilingual website with Next.js and server-side rendering.",
+    "evidence": "Developed a production-ready bilingual business website using React, TypeScript, and Tailwind CSS.",
+    "supported": false
+  },
+  {
+    "claim": "I led educational activities at an English-speaking summer camp.",
+    "evidence": "Led educational activities in an English-speaking summer camp.",
+    "supported": true
+  },
+  {
+    "claim": "I led educational activities for over 100 children at a summer camp.",
+    "evidence": "Led educational activities in an English-speaking summer camp.",
+    "supported": false
+  },
+  {
+    "claim": "I coordinated cross-functional teams in a fast-paced environment.",
+    "evidence": "Coordinated cross-functional teams in a fast-paced environment.",
+    "supported": true
+  },
+  {
+    "claim": "I coordinated cross-functional teams and reduced delivery time by 20%.",
+    "evidence": "Coordinated cross-functional teams in a fast-paced environment.",
+    "supported": false
+  },
+  {
+    "claim": "I added an AI chatbot with Hebrew and English support to a website.",
+    "evidence": "Integrated an AI-powered chatbot, multilingual support (Hebrew & English), and responsive design.",
+    "supported": true
+  },
+  {
+    "claim": "I optimized site performance, accessibility and Core Web Vitals.",
+    "evidence": "Optimized performance, accessibility, metadata management, and Core Web Vitals to improve user experience.",
+    "supported": true
+  },
+  {
+    "claim": "I improved Core Web Vitals scores to above 90 on Lighthouse.",
+    "evidence": "Optimized performance, accessibility, metadata management, and Core Web Vitals to improve user experience.",
+    "supported": false
+  }
+]

@@ -1,0 +1,26 @@
+Junior AI Engineer
+
+About the role
+We are a small product team building AI-powered features for business customers. We are looking for a Junior AI Engineer to help us design, build and evaluate LLM-based applications, such as document question answering and workflow automation.
+
+Responsibilities
+- Build retrieval-augmented generation (RAG) pipelines using vector databases and LLM APIs.
+- Develop backend services and REST APIs that expose AI features to our web application.
+- Evaluate the quality of AI outputs and improve prompts and retrieval strategies.
+- Work with the product team to turn customer needs into working features.
+- Package and deploy services using Docker.
+
+Requirements
+- B.Sc. in Computer Science or equivalent practical experience.
+- Experience with Python.
+- Hands-on experience with LLM APIs (such as OpenAI, Gemini or Anthropic).
+- Familiarity with RAG concepts and vector databases.
+- Experience building REST APIs.
+- Experience with Git.
+- Good English communication skills.
+
+Nice to have
+- Experience with LangChain or LangGraph.
+- Docker and CI/CD.
+- Experience with TypeScript or React.
+- Experience evaluating LLM applications.

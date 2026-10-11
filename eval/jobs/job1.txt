@@ -1,0 +1,30 @@
+Browzwear is the leading provider of 3D fashion design, development, and merchandising solutions. Our mission is to revolutionize the apparel industry through truly disruptive 3D technology, empowering brands to work smarter, reduce waste, and bring products to market faster. We partner with some of the world's most recognized fashion and retail companies to drive digital transformation across the product lifecycle.
+
+We're looking for a detail-oriented individual with a passion for technology and problem-solving to join our QA team. This is an exciting opportunity to gain hands-on experience in software quality and test automation, working closely with experienced engineers to test new features, improve automation processes, and help deliver high-quality products to our customers.
+
+Responsibilities:
+
+Design and write test plans and test cases for new features, based on specs and acceptance criteria. 
+Execute manual and automated test cases across Browzwear products and features. 
+Build and maintain automated tests and contribute to building our automation infrastructure from the ground up, together with senior engineers. 
+Identify, document, and track bugs clearly and reproducibly (e.g., in Jira). 
+Perform regression testing ahead of releases. 
+Collaborate with developers, product managers, and senior QA engineers to understand feature requirements and acceptance criteria. 
+Help maintain and update test documentation and test case libraries. 
+Participate in daily standups and sprint ceremonies as part of an Agile team. 
+
+Requirements:
+
+Degree in Computer Science, Industrial Engineering, or related fields. 
+Hands-on programming experience in JavaScript/Node.js, demonstrated through academic projects, personal projects, or previous work. 
+Familiarity and experience working with AI tools (such as Claude). 
+Strong attention to detail and a methodical approach to problem-solving. 
+Good written and verbal communication skills in English. 
+Comfortable learning new tools and technical products quickly. 
+Ability to work effectively both independently and as part of a cross-functional team. 
+
+Nice to have: 
+
+Familiarity with bug-tracking tools (Jira or similar). 
+Exposure to SQL, scripting (Python), or test automation tools. 
+Interest or background in Gaming, 3D Simulation, Computer Graphics, Fashion/Apparel, or 3D/CAD tools.
