@@ -91,7 +91,7 @@ Requirement-extraction accuracy (`eval/eval_jobs.py`) is **not measured yet**: t
 ## Run it
 
 ```bash
-git clone https://github.com/Edenalster/career-coach.git
+git clone https://github.com/Edenalster/career-coach-AI.git
 cd career-coach
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
