@@ -2,10 +2,6 @@
 
 Upload a CV (PDF or text) and paste a job description. The system returns a **gap analysis**, **tailored CV bullets** and **interview preparation**, and every claim it makes is checked against the original CV.
 
-![App screenshot](docs/screenshot.png)
-
-![tests](https://github.com/Edenalster/career-coach/actions/workflows/tests.yml/badge.svg)
-
 ## Why this project
 
 LLM résumé tools can easily invent experience. This one is built around the opposite goal: **every claim must point to evidence in the CV**, and a separate judge verifies that the evidence really supports the claim. The interesting part is how that was measured and improved (see [Results](#results) and [Failures I found and fixed](#failures-i-found-and-fixed)).
